@@ -5,6 +5,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&layout=compact"><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=kdh4646&show_icons=true">
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 
 
