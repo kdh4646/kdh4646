@@ -1,19 +1,14 @@
 ### Hi there 👋
 
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
-
-
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true">
-</picture>
-
-
-<picture>
-  <img src="https://github-readme-stats.vercel.app/api/repo-card?username=kdh4646&theme=dark&show_icons=true">
-</picture>
+<div>
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
+  </picture>
+  
+  <picture>
+    <img src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true">
+  </picture>
+</div>
 
 <!--
 **kdh4646/kdh4646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
