@@ -21,7 +21,7 @@
   </thead>
 </table>
 
-<div>
+<div align="center">
   <picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
   </picture>
