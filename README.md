@@ -7,7 +7,6 @@
 
 
 
-<img src="https://camo.githubusercontent.com/486a90223ad7e70faf079c62682bb6e26794d91a7eb6495093aacc1542e02c46/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268697368656b6e61696964752673686f775f69636f6e733d74727565267468656d653d676f7468616d" alt="kdh646" data-canonical-src="https://github-readme-stats.vercel.app/api?username=kdh4646&amp;show_icons=true&amp;theme=gotham" style="max-width: 100%;">
 
 <!--
 **kdh4646/kdh4646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
