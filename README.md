@@ -1,6 +1,6 @@
 ### Hi there 👋 ?????
 
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=capsule%20render&fontColor=1FBED6&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=capsule%20render&fontColor=2F81F7&fontSize=90)
 ### Tech STACK
 
 
