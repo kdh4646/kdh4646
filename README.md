@@ -21,13 +21,13 @@
   </thead>
 </table>
 
-<div align="center">
+<div>
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
   </picture>
   
   <picture>
-    <img src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true">
   </picture>
 </div>
 
