@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&layout=compact"><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=kdh4646&show_icons=true">
+
+
+
 <!--
 **kdh4646/kdh4646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
