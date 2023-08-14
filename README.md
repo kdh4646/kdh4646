@@ -1,7 +1,6 @@
-### Hi there 👋 ?????
 <div align="center">
   <picture>
-    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&desc=Only%20Use%20Text&text=Hello!👋%20I'am%20DoHyung(Derek)%20Kweon&fontColor=2F81F7&fontSize=45"/>
+    <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hello!👋%20I'am%20DoHyung(Derek)%20Kweon&fontColor=2F81F7&fontSize=45"/>
   </picture>
 </div>
 
