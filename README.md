@@ -11,12 +11,12 @@
   </picture>
 </div>
 
+</br>
+
 <div align="center">
   <picture>
     <img align="center" src="https://leetcard.jacoblin.cool/kdh4646?ext=activity"/>
-    
   </picture>
-  
 </div>
 
 <!--
