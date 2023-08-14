@@ -10,7 +10,7 @@
 ### Tools
 
 
-<div>
+<div algin="center">
   <picture>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true"/>
   </picture>
