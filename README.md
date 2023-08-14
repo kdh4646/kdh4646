@@ -6,8 +6,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
   </picture>
 
-  </br>
-  
   <picture>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true">
   </picture>
