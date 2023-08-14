@@ -1,5 +1,26 @@
 ### Hi there 👋
 
+
+
+
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        <picture>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
+        </picture>        
+      </th>
+      <th>
+      <picture>
+        <img src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true">
+      </picture>      
+      </th>
+    </tr>
+  </thead>
+</table>
+
 <div>
   <picture>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
