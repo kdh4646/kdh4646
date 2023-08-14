@@ -1,6 +1,6 @@
 <div align="center">
   <picture>
-    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=808080&height=100&section=header&text=Hello!👋%20I'am%20DoHyung(Derek)%20Kweon&fontColor=2F81F7&fontSize=40"/>
+    <img src="https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=100&section=header&text=Hello!👋%20I'am%20DoHyung(Derek)%20Kweon&fontColor=2F81F7&fontSize=40"/>
   </picture>
 </div>
 
