@@ -2,18 +2,22 @@
   <picture>
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hello!👋%20I'am%20DoHyung(Derek)%20Kweon&fontColor=2F81F7&fontSize=40"/>
   </picture>
+
+  Visitor Count
+  </br>
+  <picture>
+    <img src="https://profile-counter.glitch.me/kdh4646/count.svg"/>
+  </picture>
 </div>
 
+### About Me
+  - 🔭 Love to code and develop new softwares
+  - 💪 Failure is not an Option
+  - 🌱 Junior Software Developer
+  - ☕ Coffe Lover
+  - ⚡ Fun fact: Interested in Medical and Neuroscience fields
 
-### Tech STACK
-
-
-### About ME
-
-
-### Tools
-
-
+### Stats
 <div align="center">
   <picture>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true"/>
@@ -24,25 +28,9 @@
   </picture>
 </div>
 
-</br>
-
+### LeetCode
 <div align="center">
   <picture>
     <img align="center" src="https://leetcard.jacoblin.cool/kdh4646?ext=activity"/>
   </picture>
 </div>
-
-<!--
-**kdh4646/kdh4646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
