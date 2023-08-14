@@ -3,16 +3,22 @@
 
 <div>
   <picture>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kdh4646&theme=dark&show_icons=true"/>
   </picture>
   
   <picture>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdh4646&theme=dark&layout=compact"/>
   </picture>
 </div>
 
+<div>
+  <picture>
+    <img align="center" src="https://leetcard.jacoblin.cool/kdh4646?ext=activity"/>
+    
+  </picture>
+  
+</div>
 
-![11](https://leetcard.jacoblin.cool/kdh4646?ext=activity)
 <!--
 **kdh4646/kdh4646** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
