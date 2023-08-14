@@ -1,8 +1,11 @@
 ### Hi there 👋 ?????
+<div align="center">
+  <picture>
+    👋<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hello!%20I'am%20DoHyung(Derek)%20Kweon&fontColor=2F81F7&fontSize=45"/>
+  </picture>
+</div>
 
 
-
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=100&section=header&text=Hello!%20I'am%20DoHyung(Derek)%20Kweon&fontColor=2F81F7&fontSize=45)
 ### Tech STACK
 
 
